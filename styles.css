@@ -7,6 +7,13 @@ body{
    background-color: #fffae5;
 }
 
+.bg-img {
+  background-image: url("pizza.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 70% 70%;
+}
+
 hr {
 
     width: 40%;
